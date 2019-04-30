@@ -1,8 +1,8 @@
 # network
 用来进行snmpv3协议的MD5暴力破解
 -------------------
-两个文件\n
-authparam.py\n
+两个文件\n\r
+authparam.py\n\r
 dico.txt
 
 修改authparam.py中参数，分别为msgAuthoritativeEngineID / msgAuthenticationParameters / msgraw
